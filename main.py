@@ -10,6 +10,7 @@ print("123" + "345") #Concatenated
 #Integers
 
 123
+print(1_000_000)
 
 #Float
 
@@ -17,4 +18,6 @@ print("123" + "345") #Concatenated
 
 #Boolean
 
+True
+False
 
